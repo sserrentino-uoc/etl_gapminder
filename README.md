@@ -24,7 +24,8 @@ El script implementa un flujo de ingeniería de datos modular bajo el paradigma 
 
 ### 2. Transformación (Transform)
 * **Validación de Calidad:** Limpieza de nulos, tipado estricto de variables numéricas y comprobación de integridad de columnas.
-* **Especialización:** * **Area Chart:** Pivotaje de formato *Long* a *Wide* para series temporales por continente.
+* **Especialización:**
+    * * **Area Chart:** Pivotaje de formato *Long* a *Wide* para series temporales por continente.
     * **Circular Dendrogram:** Construcción de una jerarquía multinivel `Mundo > Continente > País`.
     * **Beeswarm Chart:** Filtrado al año de referencia (2007) preservando la granularidad del microdato.
 
