@@ -54,7 +54,7 @@ El script implementa un flujo de ingeniería de datos modular bajo el paradigma 
    git clone <TU_URL_DE_GITLAB>
    python codigo.py
 
-##🔗 Visualizaciones Finales (Flourish)
+## 🔗 Visualizaciones Finales (Flourish)
 
 Los resultados interactivos y el análisis visual de este procesamiento pueden consultarse en los siguientes enlaces:
 
