@@ -19,7 +19,7 @@ A partir del dataset público de **Gapminder** (https://www.gapminder.org/data/)
 El script implementa un flujo de ingeniería de datos modular bajo el paradigma **Extract, Transform, Load (ETL)**:
 
 ### 1. Extracción (Extract)
-* **Fuente:** Dataset `gapminder` obtenido a través de la librería `plotly.express`.
+* **Fuente:** Dataset `gapminder` obtenido a través de la librería `plotly.express`. (https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv)
 * **Carga:** Ingesta automática para asegurar la reproducibilidad del análisis.
 
 ### 2. Transformación (Transform)
