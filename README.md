@@ -1,5 +1,6 @@
-# 📊 PEC 2: Visualización de Datos – De la Técnica hacia el Dato
+# 📊 PEC 2: De la Técnica hacia el Dato
 
+> **Asignatura:** Visualización de Datos - Master en Ciencia de Datos
 > **Estudiante:** Sebastián Serrentino Mangino  
 > **Institución:** Universitat Oberta de Catalunya (UOC)  
 > **Docente:** José Manuel Pina López  
@@ -64,4 +65,4 @@ El script implementa un flujo de ingeniería de datos modular bajo el paradigma 
    * 🐝 Técnica 3: Beeswarm Chart - Distribución de la esperanza de vida - url: https://public.flourish.studio/visualisation/28154890/
 
 
-**Este repositorio ha sido creado exclusivamente para fines académicos en el marco de la asignatura Visualización de Datos.**
+**Este repositorio ha sido creado exclusivamente para fines académicos en el marco de la asignatura Visualización de Datos - Master en Ciencia de Datos - OUC.**
