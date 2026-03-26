@@ -1,11 +1,8 @@
 # 📊 PEC 2: De la Técnica hacia el Dato
 
 > **Asignatura:** Visualización de Datos - Master en Ciencia de Datos
-
 > **Estudiante:** Sebastián Serrentino Mangino  
-
 > **Institución:** Universitat Oberta de Catalunya (UOC)  
-
 > **Docente:** José Manuel Pina López  
 
 ---
