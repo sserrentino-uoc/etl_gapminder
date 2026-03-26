@@ -57,11 +57,11 @@ El script implementa un flujo de ingeniería de datos modular bajo el paradigma 
 
 ## 🔗 Visualizaciones Finales (Flourish)
 
-Los resultados interactivos y el análisis visual de este procesamiento pueden consultarse en los siguientes enlaces:
+* Los resultados interactivos y el análisis visual de este procesamiento pueden consultarse en los siguientes enlaces:
 
-🌐 Técnica 1: Area Chart - Evolución poblacional - url: https://public.flourish.studio/visualisation/28153341/
-🌳 Técnica 2: Circular Dendrogram - Estructura jerárquica global - url: https://public.flourish.studio/visualisation/28154374/
-🐝 Técnica 3: Beeswarm Chart - Distribución de la esperanza de vida - url: https://public.flourish.studio/visualisation/28154890/
+   * 🌐 Técnica 1: Area Chart - Evolución poblacional - url: https://public.flourish.studio/visualisation/28153341/
+   * 🌳 Técnica 2: Circular Dendrogram - Estructura jerárquica global - url: https://public.flourish.studio/visualisation/28154374/
+   * 🐝 Técnica 3: Beeswarm Chart - Distribución de la esperanza de vida - url: https://public.flourish.studio/visualisation/28154890/
 
 
-Este repositorio ha sido creado exclusivamente para fines académicos en el marco de la asignatura Visualización de Datos.
+**Este repositorio ha sido creado exclusivamente para fines académicos en el marco de la asignatura Visualización de Datos.**
